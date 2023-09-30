@@ -4,7 +4,7 @@ require('dotenv').config();
 
 // Task completed by Muhammad Huzaifa Abdulahad 
 //Email : huzaifathedeveloper@gmail.com
-//whatapp : +92 3460158151
+//whatsapp : +92 3460158151
 
 require('./config/Requires')(app);
 require('./config/Server')(app);
